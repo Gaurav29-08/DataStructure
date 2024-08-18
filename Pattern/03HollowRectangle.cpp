@@ -6,7 +6,7 @@ int main(){
       if(i==0||i==4){
         cout<<"* ";
       }
-      else{
+      else{ 
         if(j==0||j==4){
           cout<<"* ";
         }
